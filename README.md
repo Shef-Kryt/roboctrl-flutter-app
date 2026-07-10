@@ -42,7 +42,7 @@ The application provides remote robot control, Bluetooth communication, real-tim
 
 # Project Structure
 
-```text
+text
 lib/
 ├── main.dart
 │   └── Application entry point and provider initialization
@@ -95,7 +95,6 @@ lib/
 └── widgets/
     └── direction_control.dart
         └── Robot movement controls
-```
 
 ---
 
