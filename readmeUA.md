@@ -143,6 +143,6 @@ uuid	Генерація UUID
 -	[Raspberry Pi Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/)
 -	[Provider — State Management](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
 -	## Screenshots
-|Control<img src="screenshots/main_screen.png" width="300">| Telemetry <img src="screenshots/settings_screen.png" width="300">| Settings  <img src="screenshots/devices.png" width="300">|
+|Main<img src="screenshots/main_screen.png" width="300">| Telemetry <img src="screenshots/settings_screen.png" width="300">| Settings  <img src="screenshots/devices.png" width="300">|
 |---------|-----------|----------|
 
