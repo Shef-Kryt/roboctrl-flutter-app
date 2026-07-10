@@ -143,4 +143,4 @@ uuid	Генерація UUID
 -	[Provider — State Management](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
 -	## Screenshots
 
-<img src="screenshots/main_screen.png" width="300">
+<img src="screenshots/main_screen.png" width="300"><img src="screenshots/settings_screen.png" width="300"> <img src="screenshots/devices.png" width="300">
