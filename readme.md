@@ -141,3 +141,6 @@ uuid	Генерація UUID
 -	[Material Design 3](https://m3.material.io)
 -	[Raspberry Pi Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/)
 -	[Provider — State Management](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
+-	## Screenshots
+
+<img src="screenshots/main_screen.png" width="300">
