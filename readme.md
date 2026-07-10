@@ -1,7 +1,7 @@
 
 
 
-Файл README
+# RoboCtrl Flutter App
 # Назва проєкту:RoboCtrl
 
 > Мобільний застосунок для керування робомобілем на базі Raspberry Pi Pico з підтримкою Bluetooth LE та Bluetooth Classic.
