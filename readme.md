@@ -70,13 +70,12 @@ flutter pub get
 ```
 ### 4. Перевірка середовища
 
-```bash flutter doctor
-```
+```bash flutter doctor```
+
 
 ### 5. Запуск на пристрої
 
-```bash flutter run
-```
+```bash flutter run```
 > Для роботи Bluetooth необхідний реальний Android-пристрій. На емуляторі Bluetooth недоступний.
 
 ### 6. Збірка APK
