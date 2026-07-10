@@ -61,7 +61,8 @@
 -	Flutter SDK v3.x+ — [flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 -	Android Studio або VS Code з розширенням Flutter
 -	Підключений Android-пристрій або емулятор (API 21+) ### 2. Клонування репозиторію
-git clone https://github.com/Shef-Kryt/Dyplomna cd roboctrl
+git clone https://github.com/Shef-Kryt/roboctrl-flutter-app.git
+cd roboctrl-flutter-app
 
 ### 3. Встановлення залежностей
 
